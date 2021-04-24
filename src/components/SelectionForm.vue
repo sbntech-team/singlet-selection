@@ -118,7 +118,7 @@
           `/src/assets/${selectedUnit.folderName}/${selectedDesign.fileName}`
         ].default
       "
-      class="my-4"
+      class="my-4 mx-auto"
       alt="Singlet Image"
     />
     <a
