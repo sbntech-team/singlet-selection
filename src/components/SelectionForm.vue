@@ -123,10 +123,11 @@
     />
     <a
       type="button"
-      class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-green-500 hover:bg-green-600 hover:shadow-lg w-full text-center"
+      class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-green-500 hover:bg-green-600 hover:shadow-lg w-full text-center flex justify-center items-center"
       href="/"
     >
-      Go to form
+      <span>Go to form</span>
+      <ExternalLinkIcon class="w-5 h-5 ml-1 inline-block" />
     </a>
   </div>
 </template>
@@ -139,7 +140,11 @@ import {
   ListboxOptions,
   ListboxOption,
 } from "@headlessui/vue";
-import { CheckIcon, SelectorIcon } from "@heroicons/vue/solid";
+import {
+  CheckIcon,
+  SelectorIcon,
+  ExternalLinkIcon,
+} from "@heroicons/vue/solid";
 
 const units = [
   { displayName: "2 PDF", folderName: "2_PDF" },
