@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-2 p-2">
+  <div class="mt-2 p-2 md:p-8">
     <div class="my-4">
       <Listbox v-model="selectedUnit">
         <div class="relative mt-1">
