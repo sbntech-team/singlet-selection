@@ -121,6 +121,9 @@
       class="my-4 mx-auto"
       alt="Singlet Image"
     />
+    <p class="text-gray-500 text-xs mb-4">
+      Pictures are solely used for illustration purposes.
+    </p>
     <a
       type="button"
       class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-green-500 hover:bg-green-600 hover:shadow-lg w-full text-center flex justify-center items-center"
