@@ -124,7 +124,8 @@
     <a
       type="button"
       class="focus:outline-none text-white text-sm py-2.5 px-5 rounded-md bg-green-500 hover:bg-green-600 hover:shadow-lg w-full text-center flex justify-center items-center"
-      href="/"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdn6TVDwcLpvTzz_EOMfgXM6dWjfXrz9LIgOfplf6l6R0GSGw/viewform"
+      rel="nofollow noreferrer noopener"
     >
       <span>Go to form</span>
       <ExternalLinkIcon class="w-5 h-5 ml-1 inline-block" />
