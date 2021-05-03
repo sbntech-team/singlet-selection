@@ -174,8 +174,8 @@ const units = [
 const designs = [
   { displayName: "1", fileName: "Design_1.png" },
   { displayName: "2", fileName: "Design_2.png" },
-  { displayName: "3", fileName: "Design_3.png" },
-  { displayName: "4", fileName: "Design_4.png" },
+  // { displayName: "3", fileName: "Design_3.png" },
+  // { displayName: "4", fileName: "Design_4.png" },
 ];
 const selectedUnit = ref(units[0]);
 const selectedDesign = ref(designs[0]);
